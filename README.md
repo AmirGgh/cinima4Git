@@ -14,7 +14,7 @@ Client side: developed in React.js, loading performance and state management hav
 In the server file run 'npm i' to install all the packages. then run 'npm start' to start the server at 'http://localhost:8080'
 ### server-cinima:
 In the server file run 'npm i' to install all the packages. then run 'npm start' to start the server at 'http://localhost:8000'
-### Client:
+### client:
 In the client file runs 'npm i' to install all the packages. then run 'npm start' to start the server at 'http://localhost:3000'  
 
 ## Log in
